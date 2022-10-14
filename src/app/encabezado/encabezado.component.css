@@ -1,0 +1,21 @@
+
+.imag1{         
+    display:flex;    
+    max-width: 100%;
+    max-height: 70%;
+   
+       
+   }    
+.imag2{
+    display:flex;   
+    width: 30%; 
+    max-width: 100%;
+    margin: o auto;
+    border-radius: 50%;
+    margin-top: -150px;
+    margin-left: 20px;
+}
+
+.info1{
+    padding: 10px 30px 0;
+}

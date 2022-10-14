@@ -1,0 +1,131 @@
+{
+    "name": "Juan Martínez",
+    "Image": "https://scontent.feze9-1.fna.fbcdn.net/v/t39.30808-6/311701454_10225447900718030_538892928199918684_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=dMWSwGHpAfIAX9mB1JL&_nc_ht=scontent.feze9-1.fna&oh=00_AT9WUeS_XHWGHi8D17h106bXf1TOpD4apf3f2p4JNQRxsw&oe=634CB14C",
+    "backImage": "https://thumbs.dreamstime.com/b/binary-code-computer-background-polygon-data-security-protection-abstract-technology-java-coding-many-uses-advertising-book-191129296.jpg",
+   
+   "acercaDe":{   
+    "name": "Altamente comprometido con el desarrollo de cada una de las actividades a mi cargo, responsable, honesto, ordenado y puntual. Dispuesto a desempeñarme en cualquier área designada, llevando a cabo las normas establecidas en el lugar. Proactivo, con ganas de superarme día a día. Creo en el respeto, la honestidad, el trabajo en equipo y el compromiso"  
+   },
+
+   "experiencia":{
+        "empresa1":{
+            "name": "CONSULTAR H&S",
+            "puesto": "SYSTEM MANAGER",
+            "Image": "https://media-exp1.licdn.com/dms/image/C5103AQF6plUdy026wA/profile-displayphoto-shrink_200_200/0/1516992811112?e=1669852800&v=beta&t=qOtWSaDTkg1x3NtWhxsE9Yqf5yqNHlonIuRW7W9jRnQ",
+            "fechaInicial": "Mayo 2022",
+            "fechaFinal": "Actualmente",
+            "ciudad": "Buenos Aires",
+            "pais": "Argentina",
+            "actividades": {
+                "a":"✓ Mantenimiento del sistema",
+                "b": "✓ Limpieza y Mantenimiento de equipos.",
+                "c": "✓ Supervisión de los Procesos y Requerimientos del sistema"
+            }},
+
+            "empresa2":{
+                "name": "TOMASSO",
+                "puesto": "ENCARGADO DEL SISTEMA",
+                "Image": "https://tomassopizzas.com.ar/wp-content/uploads/2019/08/A.png",
+                "fechaInicial": "Sept 2021",
+                "fechaFinal": "Dic 2021",
+                "ciudad": "Buenos Aires",
+                "pais": "Argentina",
+                "actividades": {
+                    "a":"✓ Creación de productos en las diferentes plataformas",
+                    "b": "✓ Análisis y estudio de las bases de datos.",
+                    "c": "✓ Supervisión de negocios a cargo ",
+                    "d": "✓ Manejo del Sistema principal de ventas",
+                    "e": "✓ Manejo de las aplicaciones PedidosYa y Rappi"                     
+                       
+                }
+               },
+
+               "empresa3":{
+                "name": "RESTAURANT CHACAITO",
+                "puesto": "MOZO",
+                "Image": "https://elpasodelchamo.com/wp-content/uploads/2020/02/Chaca%C3%ADto-Caribbean-Food-Station-Argentina-Buenos-Aires-logo.jpg",
+                "fechaInicial": "Oct 2020",
+                "fechaFinal": "Mayo 2021",
+                "ciudad": "Buenos Aires",
+                "pais": "Argentina",
+                "actividades": {
+                    "a":"✓ Control de stock, e inventario de mercancía en General.",
+                    "b": "✓ Ayudante de barra.",
+                    "c": "✓ Cajero."   
+                }
+               },
+
+               "empresa4":{
+                "name": "ROLDAN BA",
+                "puesto": "BARTENDER",
+                "Image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQBhEREhIVFRUSEBgYGBIXGRsVHRoWFRIaFxgXGhodHighHxolIR8aJTMiJSktMC86GCs0ODMtOSgtLjcBCgoKDg0OGxAQGi8lHyUrMi4tLS0tKy0tKy0xLS0tLS0vLS0tLS0tLS0tLS0tLSstLS03KystLSsrLS0rKy03N//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABAUDBgcCAQj/xABIEAACAgEDAgMFBAUIBQ0AAAABAgADEQQSIQUxBkFRBxMiYYEUMnGRCCNCUqEWNDdicnSxsydzorLhGCQmMzVDU4KStcPR8P/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAeEQEBAQACAgMBAAAAAAAAAAAAARECITFBIlFxEv/aAAwDAQACEQMRAD8A7jERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERARmYtTcE07OeyqTx8h2HzlPpKm1GqcuRtrfaRgMC4ALKoYEBVzjdjcTnkDAktF4DPsiPoK8ZUbG/eT4T/9H8CCI0+pIDrZjdWMkjsV5w4/I8eRH4GNEuJQJ4k949y01PYUwFK8hmNbPgnsvYDk87hM1V+v2AGqvIIyxfGRk5OBnBxg4z5/WUXMSrqv1Y1Ch6qyp4LI/bsc4YZ9Rj5fPi0gIiICIiAiIgIiYtSHOnYIQGKnaxGQGxwSPMZ8oGWJoXSfB/UbNfXqeodSsdq33Lp6QK6gfLK4w2O3IJ+fM32AiIgInl3CoSTgAZJ+QkNKDb8Vmdp7Vdhj+v6k+h4Hp5wJuZ9lbrOlqa/1QRGHbCgA/iQAw/FSJ46H1D3tQB77cjOM/CxV1OO5VhjPmCDM73irWIiaQiIgIiIEbqNRfROq9yvH9ocjPyziUnWGtPT1fSV7suS9Y+E7zjO8Ag5HORnuRntNkkHX6arabGrDHgehOTgAn0yfOZ5RZWPojManBOdrAdy2G2DegY8kBsj5dvKSNSuNXU3qWT6FC3+KiRdLrgtvu/1WFIQits+7Y/dVhgYB7A/wkm8511S/u7nP0GwD67j/AOmPQkVVKtYVQAB2An569oFutf2r36LTay+lXCsFFtoVT9lFrYUNxkg8D1nafD+rtu6prGLE1LaEQeQKZDY/Hg/Wcd8Vf0/N/YH/ALfLLs0sxI6R4m6x0PxTRouoWNqKdRjaWY2EB3KBlc/FkHGVORjt5GdV8b+JPsPgu/XVgMVrU1g9i1rKiEjjgFgSPlOY+2+1W9oXSawcspTKjuN2oG388GbT7Vz/AKG7P9Vpf82qVHO+l6Pruv6Fd1RepXgoj2hBYyLtr3ZUBWCqTsb4QpHbJGZ0v2PeM7up9DI1GDbUxU2AY3hQp3EDgN8Q7ehMpvZt/Q1qf7pqP8LpA/Ry/mF/+sf/AHaIFf4n196e2p9Ol9y1bd3uha4Xd9iNmducfe5xjE7rpqFroVFzhRgZJJ+pPJM4D4qcH2+Pgj7gH1PT8Y/GfoOByv8ASC1dtHhzTW022VP9q2bq3ZCVNTkg7SMjIHeabboOt9P8L19Wq6nbYgWtnqsZmGLNo+6zMrAMQOwOOeJtX6SDj+SulXIydYDjPOBS+Tj05H5z14kH+gF/7vR/m1QN38B+JR1Pw5VqduxmX4l8gwJVsfLcGnKv0geu3UeItNVRfbU32Ys/u7HQHdYQuQCBkbW/Obf7Bj/0Gr/83+fbOU+2V31XtH1aoNw01Kg/Ja6g7n6FjA774CuWzw1TaCx96oclmLHBUbRz/V2zm/6Q+vv02o0D0X21Gxbg/u7HQNsNW3IUgcbm5+c2j2H633ngioHunH0BNY/gk1H9JkfD038dR/8ADA13q3tEu1PgAU2XW06/S6hF3q71tZVhgxOCMuCAGB+R9cdb9kwZ/C9V1llju1aDLuz/AHqksJ+Inksx/IAYAxOYe2Hwgi9Iq6rWcNY/u7k/ebcwSwfPAwfXg+uel+y5WPs+QIcOaV2n0b7LXj+OIG5a7lFX96xR9AdxH1AMkeU1zo2ua3w3Va5y9Vg3k9/gfDE/PYcy81eo2IMAEk8AnA4GSSfJQB3mZd7Wz01qh9W3UqCqEqQpss3H4XB/WoV3YAByNu38OeZdaOtDry1agJWrLleAXscM+Md8bRk+pI8jMWmFV9wLLU+9CRYhyGCEKQ34ZHr9JbIgVQAAABgAcYHpJx4lr1ERNoREQEREBPNlYasqRkEYI+U9RAprun1VWErw1tqM7kk/DS3vMkk9uMZ/rCeLWuct7tSr24/WsMCusfdwD95+ScDsW5PE9up1GvdckKhAJGPI528jzbOfki+s99SOk02l95cq4JAywNjEnyyck+f5Tm0mdO0SUaJakGAo+pPmT8yZ+cfHNGss9s96V2JXeXX3dgJChPsgK5OCc7O/HcnHE/Q+gdRcorOa7KveKP3Rkds9lO4YHlgzh3idh/ygW5HOwfU6AAD8TkfnNxmoXsn6Uut8ZXnW2WNqa2O7edzHhlfJPO4Y258g3HJBHSvbtpQfZxc25l91ZUQqnaDm1Uww81GcgeoB8ppXX9Db072ztqaK3am0iywohKqbRlw5A/fAsIHODOv9d6Zp+q+HLdMzZruUDcvcMCGVh8wQD/CUc+9nbAexjUknH/M9R/u2yr/R00inT3WchveMCQSNwVK9oPqBvY4/rfITAvsn6xXp20a65vshbJVTtDDPOUL8A98ZIzzidR8D+Eq+mdLFacsRyc588nnHJJOScDyGAABA434l6fUPbvZWtahSd+0D/vDoveF8fvb/AIs+vM/QDaiqla0LhdxCIC3JOOAM8k4BP0zOZ+JPZK3UfEN2svv2NaV+Gs4ChUCKMlCTwBk+fPbtMXSfYpVpuo1316q0PWwYcqQfUH4BwRkfWB4/SR06fyZ0tm0bxq9ofAyFapyVz3wSAcfKefFOtqr9hKo7qrW0UKiE4LHdW3wjz4BP0m3eOvBTdW0VNN15RKiHIQAFrNpUsSQeME4A9ec8TU9D7CtImoDNa7gfsucj8lCH/a/OBa+whCPBNYII4JwfQ3WkH6gg/UTi+kTUW+I+pHQ0LYlpvq2k/drvsbbt+NctheO/Y8GfpivpLabohp0mxX24DuOAdu0MVXGcAABRtAAAGMTRvZ17P9R0fXXO368OAV2hU+JVdRnc/bDH/jAov0c7f1WoQWNw5ZkzkY2oEOD27vyMZxznEwfpLaci/QWb2IZbl92cbVKms7hxncc4Oc/dHbztfZp4S1vSfEN1l1QFN5z+r32FAu/apwnb4u4z27SN+kLprdUdGlFb2Gn3pfaM43ivbx3P3T2ECb7Xf6Jq/wC9L/mWTYfY09n8jKldRwqEODwc1rtXB5yE2ZPbJOO01r2uXKPZPSCwBs1KlVPBI3O3APPYj8JsvsvtKez6thjIrQjPb+bVcn5QNhu0LUa17K1313f9bTxndjBdM8Ekd18/4QrAhEfJC5rbdkE12rhGIPOTgKfmTPvvdIvUhpnw9zLnLruJ4J5YjA7E47DymXW9MATcm4YBBrB4KkcqufunzGMDIE559NfqT0/p9dFQWsEADAyScDOcDMmSL03Ue80SPkEkYJHYlTgkfIkZkqbnjpkiIlCIiAiIgJ8M+wYFN4dcbbqzy6XuXPllnbH+yFP1Ez9Zroto91aC37QVQWIxwGwoJx3GSMSr6Lb7vrGq3ftakqx9CcGkn5EFhn1AHnMfUOl64+IxZVZipnUn4sAAABgy/tcDj8fKct+PhvO0nS9SqpBL1uoOFN3DqNvZWxzWBnsVUDPznrTeE9F9qa/YHssO5ruAzZHGWQDI9M8Se6qeq7QAd1B94O+fiATP4/rPy+UieGKbK6bq2UhE1LirP/h5yMZ8u+DNS2XGVnRoaazlK0U+oUA/n3kiIm0JH1+qFWlLnnBAA7cswUc+QyeT5d541+vSlV3ZLOcKgxliBk4yQAAOSSQB5mYBrBbUD7h3XgggKBkcgjeyk/JgMehk2CFT4kT7cyNgIFOLMn4mQkMFXGWA2uMjzrPAyuZbeIdIGwbl8+fLCruJz2xgE57HB9DMQo0gI36YJjsWqGBht/3lBUfFz378yRT0zSGkbKqiuABtVcYUEKBjyAJA9Mxo96bq9FlpVLFLDOR6EOUIPodwIweeDIvUOuLXrPdgfdXc7E7QoOQgGeCzEH0ACMSfhIk1Om0KTipBnbnCgfcOV/I8iRtZTozbiyut2AHw7BYwADAfCATjDN5ftH1MuhX4h0rYxaOTjGCDnONpBGQ3bjv59pZg5EqrEpawv9lZiWDFiigkgLgkMQSfhXy/ZHoJ7PWKxaAQQpYKWII2s33Q6nBAPk3IPr2k2GLOeWQFcEAj0M9RKK3UdC0tiEGlBnvtGzP47cZkCinTaEHT1BmDgkaStVIG4/E2ABgHzLHBmwGa10ml16DddYrLba7m0nhgocqceeAoOP4TPK+lkZNGmn+1i91ZWQFVZibAg5B3WKNvHbljjPlL9mxWT6DMoPFGi1VmnpGkbaFJyqtsyMDbz6Dnj5yWlbVdFroLZsNezI8uPib+yo/wA85mXLYtffDbBtEzqcpZc7J5YUnt+eZbSl8H/wDYNeOxawr/AGDaxX+GJdTXHwl8kRE0hERAREQERECg610+1dd9poUOWXZbQcAWIOx543D5/wDA2Gn07GhSHtryoOw7GK5HYllY5H4mT4mf57XWHTaZUBxkljksTkk+pP8A+AmaImkIiIFT1bpPvbHsB+I6dq1U/d5bcfzwAflK2uvVv4kWxWsWrjdSwKhQEwRn7rZPYqT3+U2iJm8NWV8kd9Gu8svwt+8vGfxHY/WSYmkRm07N99uPRcrn8T3+gI+sy00qiYVQo9AMTJEmCm8UV6hunAadirbxuIznZg5xtBPfHYZkOrQWanSFLC381NRtZSpdywYNtODhMcE4zuM2WJLx26uvFS4rAznAxn1+c9xE0hPhHE+xAgr0/aMV2ui+SDaQPw3KSB8s4HpKnqek1Ft5orVlRwBbqmILFT3RB5fkByePObJEzeOrKx6ela6FRRhVUAD0AGBMkRNIREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERED//Z",
+                "fechaInicial": "Dic 2019",
+                "fechaFinal": "Mayo 2022",
+                "ciudad": "Buenos Aires",
+                "pais": "Argentina",
+                "actividades": {
+                    "a":"✓ Control de stock, e inventario de licores y mercancía en heladeras.",
+                    "b": "✓ Organización y mantenimiento del área del bar.",
+                    "c": "✓ Limpieza de la cristalería y demás instrumentos de trabajo a mi cargo."
+                 }
+               },
+
+               "empresa5":{
+                "name": "CENTRO HIPICO PARAGUANA",
+                "puesto": "ENCARGADO",
+                "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXZCpLL6GtGvBC0CxW0ULvh1Nl50dWFu5jAVx5w81elQjrULpcWRsRLSJxV1kg2Qt2Xw&usqp=CAU",
+                "fechaInicial": "Agos 2008",
+                "fechaFinal": "Dic 2018",
+                "ciudad": "Buenos Aires",
+                "pais": "Argentina",
+                "actividades": {
+                    "a":"✓ Administración general de la empresa.   ✓ Reclutamiento de personal.",
+                    "b": " ✓ Supervisión y administración de activos.  ✓ Personal a cargo.",
+                    "c": " ✓ Manejo del flujo de caja.                 ✓ Monitoreo de ventas. ",
+                    "d": "  ✓ Realizar actividades propias de admisión y control de clientes en el establecimiento."
+                    }
+               }
+           },
+
+           "educacion":{
+            "liceo":{
+                "name": "LICEO AGUSTIN CODAZZI",
+                "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNmyfP0zz1jB_rMoorT6uWbnb2beNKUu3j2977Y_Vb9hz-rS-Ni60ZR6wcGprcoBd7Ub0&usqp=CAU",
+                "fechaInicial": "2004",
+                "fechaFinal": "2006",
+                "ciudad": "Aragua",
+                "pais": "Venezuela",
+                "titulo": "Bachiller en Ciencias"
+                },
+
+                "Uni":{
+                    "name": "UNIVERSIDAD NACIONAL EXPERIMENTAL ROMULO GALLEGOS",
+                    "Image": "https://www.logotypes101.com/logos/567/5B78538F2FF3D32544AF42D4719FA4EE/unerg.png",
+                    "fechaInicial": "2007",
+                    "fechaFinal": "2014",
+                    "ciudad": "Guárico",
+                    "pais": "Venezuela",
+                    "carrera": "Estudiante hasta el 9no semestre en Ing. En Sistemas"
+                    }
+                
+                },
+
+                "proyectos":{
+                    "a":{
+                        "name": "Argentina Programa",
+                        "Image": "https://argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/sliderimage1/1665701743/banner-ok-argentina-programa.jpg",
+                        "fechaInicial": "06/2022",
+                        "fechaFinal": "01/2023",
+                        "ciudad": " Buenos Aires",
+                        "pais": "Argentina",
+                        "nombreProy": "Porfolio Web Personal"
+                        }
+                      }
+}
+
+
+   
+
+
+     
+
