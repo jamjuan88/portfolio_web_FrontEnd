@@ -1,19 +1,52 @@
-<div>
-  <img class="imag1" [src]="miPorfolio.backImage">
-</div>
+<div class="row">
+    <!-- Carousel Code --> 
+       
+       <div>
+        <img class="imag2" [src]="miPorfolio.Image" >
+      </div>
+
+        <div class="info1" id="info-data">
+        <div class="bg-5">       
+          <h1 class="animated-shadow">{{miPorfolio.name}}</h1>
+          <h2><div class="animated-shadow" >Programador Full Stack</div></h2>
+          <h2><div class="animated-shadow" >Buenos Aires Argentina</div></h2>
+       </div>
+       </div>
+
+  <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="./assets/img/codigo3.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="./assets/img/codigo.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="carousel-item">
+        <img src="./assets/img/codigo_cerebro2.jpg" class="d-block w-100" alt="...">
+      </div>
+      </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+   
+  </div>
+  </div>
 
      
-<div>
-<div>
-  <img class="imag2" [src]="miPorfolio.Image" >
-  <div class="btn-edit"><a href="" class="btn.rigth"><i class="fa fa-pen"></i></a> </div>
-</div>
 
-<div class="info1" id="info-data">
-  <div>
-    <h1>{{miPorfolio.name}}</h1>
-    <div id="info-company">PROGRAMADOR FULL STACK</div>
-    <div id="info-location">BUENOS AIRES ARGENTINA</div>
-  </div>
-</div>
-</div>
+
+
+
+
+
+  

@@ -1,4 +1,5 @@
 
+
 .imag1{         
     display:flex;    
     max-width: 100%;
@@ -7,15 +8,120 @@
        
    }    
 .imag2{
-    display:flex;   
-    width: 20%; 
-    max-width: auto;
-    margin: o auto;
-    border-radius: 50%;
-    margin-top: -150px;
-    margin-left: 20px;
+    border-radius: 25%;
+   
+    position: absolute;
+    margin-top: 11px;
+    z-index: 1;
+    max-width: 25%;
+    height: auto;
+  
 }
 
+
 .info1{
-    padding: 10px 30px 0;
+    
+    padding: 21% 27% 0;    
+    position: absolute;
+    margin-top: auto;
+    z-index: 1;
+    color:aliceblue;
+    white-space: nowrap;
+    max-width: 25%;
+    height: auto;
+    
 }
+
+
+.carousel{
+    width: 100%;
+    height: 100%;
+}
+
+  .bg-5{
+    background: linear-gradient(135deg, rgb(227, 227, 227) 0%, rgb(93, 104, 116) 100%);
+  }
+
+  .animated-shadow {
+   color: #ffffff;
+   font: normal 17px Varela Round, sans-serif;
+   height: 17px;
+   left: 0;
+   letter-spacing: 4px;
+   text-align: center;
+   text-transform: uppercase;
+   width: 80%;
+   animation: move linear 3000ms infinite;
+   z-index: 2
+ }
+ /*Animación para rotar las sombras*/
+ @keyframes move {
+   0% {
+     text-shadow:
+       
+       2px -2px 0 #d1b0ba,
+       1px -1px 0 #d1b0ba,
+       0px -0px 0 #d1b0ba,
+      
+       -2px 2px 0 #13f1fc,
+       -1px 1px 0 #13f1fc,
+       -0px 0px 0 #13f1fc
+       
+     ;
+   }
+
+   25% {
+    text-shadow:      
+      -2px -2px 0 #d1b0ba,
+      -1px -1px 0 #d1b0ba,
+      -0px -0px 0 #d1b0ba,
+      
+      2px 2px 0 #13f1fc,
+      1px 1px 0 #13f1fc,
+      0px 0px 0 #13f1fc
+     
+    ;
+  }
+  
+   50% {
+     text-shadow:
+       -2px 2px 0 #da0641,
+       -1px 1px 0 #da0641,
+       -0px 0px 0 #da0641,
+       -0px 0px 0 #da0641,
+       2px -2px 0 #13f1fc,
+       1px -1px 0 #13f1fc,
+       0px -0px 0 #13f1fc
+       0px -0px 0 #13f1fc
+     ;
+   }
+
+   75% {
+    text-shadow:
+      2px 2px 0 #da0641,
+      1px 1px 0 #da0641,
+      0px 0px 0 #da0641,
+   
+     -2px -2px 0 #13f1fc,
+      -1px -1px 0 #13f1fc,
+      -0px -0px 0 #13f1fc
+      
+    ;
+  }
+   
+   100% {
+     text-shadow:
+       2px -2px 0 #da0641,
+       1px -1px 0 #da0641,
+       0px -0px 0 #da0641,
+       0px -0px 0 #da0641,
+       -2px 2px 0 #13f1fc,
+       -1px 1px 0 #13f1fc,
+       -0px 0px 0 #13f1fc
+       -0px 0px 0 #13f1fc
+     ;
+   }
+ }
+
+ 
+

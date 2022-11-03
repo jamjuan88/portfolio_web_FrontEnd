@@ -59,8 +59,8 @@
 
   .content {
     display: flex;
-    margin: 82px auto 32px;
-    padding: 0 16px;
+    margin: 82px auto;
+    padding: 0px;
     max-width: 960px;
     flex-direction: column;
     align-items: center;
