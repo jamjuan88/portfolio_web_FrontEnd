@@ -13,6 +13,9 @@ import { ProyectosComponent } from './proyectos/proyectos.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
+import { RouterLinkActive } from '@angular/router';
+import { ReactiveFormsModule} from '@angular/forms';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -25,12 +28,14 @@ import { LoginComponent } from './login/login.component';
     HabilidadesComponent,
     ProyectosComponent,
     HomeComponent,
-    LoginComponent
+    LoginComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

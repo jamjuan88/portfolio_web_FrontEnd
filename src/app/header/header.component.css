@@ -39,8 +39,9 @@
   }
 
   .toolbar img {
-    margin: 0 16px;
-  }
+    margin: 0 10px;
+    margin-right: 0.5em;
+ }
 
   .toolbar #twitter-logo {
     height: 40px;
@@ -56,6 +57,8 @@
   .toolbar #youtube-logo:hover {
     opacity: 0.8;
   }
+
+  
 
   .content {
     display: flex;

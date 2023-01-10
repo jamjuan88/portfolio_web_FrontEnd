@@ -1,0 +1,97 @@
+
+<div class="container py-5 h-100">
+  <div class="row d-flex justify-content-center align-items-center h-100">
+    <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+      <div class="card bg-dark text-white" style="border-radius: 1rem;">
+        <div class="card-body p-5 text-center">
+
+          <div class="mb-md-5 mt-md-4 pb-5">
+            <img src="/assets/img/logo_yoprogramo.png" height="100px" alt="">
+            <img src="/assets/img/prog4.png" height="100px" alt="">
+            <img src="/assets/img/prog3.png" height="100px" alt="">
+            <h1 class="m-5">Iniciar Sesión</h1>
+<form [formGroup]="form" class="m-5" (ngSubmit)="onEnviar($event)">
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Email</label>
+    <input type="email" formControlName="email" 
+    [ngClass]="{'is-invalid': Email?.errors && Email?.touched, 'is-valid': !Email?.errors && Email?.touched}"
+    class="form-control" id="exampleInputEmail" aria-describedby="emailHelp">
+    <div *ngIf="Email?.errors && Email?.touched">
+      <p *ngIf="Email?.hasError('required')" class="text-danger">El email es requerido</p>
+      <p *ngIf="Email?.hasError('email')" class="text-danger">El formato del email debe ser valido</p>
+    </div>
+    <div class="mb-3">
+      <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+      <input type="password" formControlName="password" 
+      [ngClass]="{'is-invalid': Password?.errors && Password?.touched, 'is-valid': !Password?.errors && Password?.touched}"
+      class="form-control" id="exampleInputPassword1">
+      <div *ngIf="Password?.errors && Password?.touched">
+        <p *ngIf="Password?.hasError('required')" class="text-danger">
+      El password es requerido.
+    </p>
+      
+      </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </div>
+  <br><br>
+  <button type="button" class="btn"><a href="http://localhost:4200/portfolio">Continuar como invitado</a></button>
+  
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+ 
+  <!--<form [formGroup]="form"> 
+    <div class="container py-5 h-100" form-group>
+      <div class="row d-flex justify-content-center align-items-center h-100">
+        <div class="col-12 col-md-8 col-lg-6 col-xl-5">
+          <div class="card bg-dark text-white" style="border-radius: 1rem;">
+            <div class="card-body p-5 text-center">
+  
+              <div class="mb-md-5 mt-md-4 pb-5">
+  
+                <h2 class="fw-bold mb-2 text-uppercase">Login</h2>
+                <p class="text-white-50 mb-5">Por Favor Ingresa email y Clave</p>
+  
+                <div class="form-outline form-white mb-4">
+                  <label class="form-label" for="typeEmailX">email</label>
+                  <input type="email" id="typeEmailX" class="form-control form-control-lg" formControlName="email">
+                  [ngClass]="{'is-invalid': Email?.errors && Email?.touched, 'is-valid': !Email?.errors && Email?.touched}"
+                   class="form-control" id="exampleInputEmail" aria-describedby="emailHelp">
+                   <div *ngIf="email?.invalid && (email?.dirty || email?.touched)">
+                   <p *ngIf="email?.hasError('required')" class="text-danger">El email es requerido</p>
+                   <p *ngIf="email?.hasError('email')" class="text-danger">El formato del email debe ser valido</p>
+                </div>
+                                  
+                </div>
+  
+                <div class="form-outline form-white mb-4">
+                  <input type="password" id="typePasswordX" class="form-control form-control-lg" formcontrolName="password">
+                  <div *ngIf="password?.invalid && (password?.dirty || password?.touched)">
+                    <p *ngIf="password?.hasError('required')" class="text-danger">El email es requerido</p>
+                    <p *ngIf="password?.hasError('minlength')" class="text-danger">El formato del email debe ser valido</p>
+
+                  <label class="form-label" for="typePasswordX">Clave</label>
+                </div>
+  
+                <button class="btn btn-outline-light btn-lg px-5" type="submit">Ingresar</button>
+  
+                </div>
+  
+              <div>
+                <p class="mb-0">Ir a la Pagina Principal <a href="/" class="text-white-50 fw-bold">Pulsa Aca</a>
+                </p>
+              </div>
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>-->
+ 
